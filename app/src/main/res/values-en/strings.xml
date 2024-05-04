@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nike</string>
+    <string name="usuario">User</string>
+    <string name="contrasena">Password</string>
+    <string name="iniciar_sesion">Log in</string>
+    <string name="historia">Inspiring athletic potential and style since 1964</string>
+    <string name="salir">Go out</string>
+    <string name="acerca">About</string>
+    <string name="correo">Mail</string>
+    <string name="marcar">Call</string>
+    <string name="contacto">Contact</string>
+    <string name="selena_noel_mendia">Selena Noel Mendia</string>
+    <string name="volver">Back</string>
+    <string name="acerca_del_desarrollador">About Developer</string>
+    <string name="inicio">Home</string>
+    <string name="nike">Nike</string>
+</resources>
